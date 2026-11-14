@@ -2,3 +2,4 @@ build/
 *.mp4
 __pycache__/
 !GTA6_chastyna_*.mp4
+!GTA6_telefon.mp4
